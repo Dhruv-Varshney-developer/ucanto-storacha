@@ -1,0 +1,8 @@
+{"type": "module",
+  "dependencies": {
+    "@ucanto/client": "^9.0.1",
+    "@ucanto/principal": "^9.0.2",
+    "@ucanto/transport": "^9.2.0",
+    "dotenv": "^17.2.1"
+  }
+}
